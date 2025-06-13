@@ -147,7 +147,7 @@ const CompanyRegistrationPage = () => {
             <div className="flex items-center space-x-2">
               <input type="checkbox" id="terms" className="rounded" />
               <Label htmlFor="terms" className="text-sm">
-                I agree to the <a href="/terms-of-service" className="text-ai-blue hover:underline">Terms of Service</a> and <a href="/privacy-policy" className="text-ai-blue hover:underline">Privacy Policy</a>
+                I agree to the <a href="/terms-of-service" className="text-ai-blue hover:underline">Terms of Service</a> and <a href="/privacy-policy" className=\"text-ai-blue hover:underline">Privacy Policy</a>
               </Label>
             </div>
 
